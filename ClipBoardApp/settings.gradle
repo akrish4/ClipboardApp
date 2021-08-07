@@ -1,0 +1,2 @@
+rootProject.name = "ClipBoard App"
+include ':app'
